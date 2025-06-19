@@ -96,3 +96,4 @@
 <p align="center">
   <img src="https://github.com/JoaoAlencar00/JoaoAlencar00/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
